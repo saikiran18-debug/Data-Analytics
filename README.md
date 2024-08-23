@@ -34,7 +34,5 @@ This analysis provides actionable insights for supermarket managers to design di
 - Explore the long-term effects of frequent discounts on customer loyalty.
 
 ## How to View the Dashboard
-The interactive Tableau dashboard can be accessed [here](#) (replace with actual link).
-```
+The interactive Tableau dashboard can be accessed here https://github.com/saikiran18-debug/Analyzing-the-Impact-of-Discounts-on-Supermarket-Sales-with-Tableau/blob/main/project.twb
 
-This structure provides a clear overview, objectives, and insights, making it easy for others to understand and reproduce your work.
